@@ -7,6 +7,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=dragon-zhang&show_icons=true&theme=buefy&count_private=true" alt="Dragon's github stats" />
 
-[![dragon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dragon-zhang)] (https://github.com/anuraghazra/github-readme-stats)
-
 <img src="https://github-profile-trophy.vercel.app/?username=dragon-zhang&column=4&theme=nord&margin-w=15&margin-h=15">
