@@ -1,12 +1,12 @@
 ### 👋 I am dragon-zhang [![Years Badge](https://badges.pufler.dev/years/dragon-zhang)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/dragon-zhang)](https://badges.pufler.dev)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragon-zhang&layout=compact" alt="Most Used Languages"/>
-
 - 🇨🇳 Chinese
-- 🔭 I’m a `java/rust` developer, currently working on `gateway/RPC/MQ`.
+- 🔭 I’m a `java/rust` developer, currently working on `Gateway/Coroutine/RPC/MQ`.
 - 🌱 Now, I’m learning `rust` and trying to build a coroutine library [open-coroutine-rs](https://github.com/dragon-zhang/open-coroutine-rs).
 - 💬 You can reach me by email: 1936978077@qq.com / zhangzicheng@apache.org.
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragon-zhang" alt="Most Used Languages"/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=dragon-zhang&show_icons=true&theme=buefy&count_private=true" alt="Dragon's github stats" />
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=dragon-zhang&column=4&theme=nord&margin-w=15&margin-h=15">
+<img src="https://github-profile-trophy.vercel.app/?username=dragon-zhang&column=4&theme=nord&margin-w=15&margin-h=15">
