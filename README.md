@@ -5,7 +5,7 @@
 - 🌱 Now, I’m learning `rust` and trying to build a coroutine library [open-coroutine-rs](https://github.com/dragon-zhang/open-coroutine-rs).
 - 💬 You can reach me by email: 1936978077@qq.com / zhangzicheng@apache.org.
 
-[![dragon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dragon-zhang)] (https://github.com/anuraghazra/github-readme-stats)
+[![Dragon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragon-zhang)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api?username=dragon-zhang&show_icons=true&theme=buefy&count_private=true" alt="Dragon's github stats" />
 
