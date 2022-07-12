@@ -1,4 +1,4 @@
-### 👋 I am dragon-zhang [![Years Badge](https://badges.pufler.dev/years/dragon-zhang)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/dragon-zhang)](https://badges.pufler.dev)
+### 👋 I am dragon-zhang
 
 - 🇨🇳 Chinese
 - 🔭 I’m a `java/rust` developer, currently working on `Gateway/Coroutine/RPC/MQ`.
