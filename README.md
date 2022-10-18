@@ -16,7 +16,7 @@
     </td>
     <td valign="top">
       <a href="https://wakatime.com/@bfcc06d1-10f4-4370-a89f-59e031904a40" target="_blank">
-        <img src="https://github-readme-stats-git.app/api/wakatime?username=dragon-zhang&hide=other,html,scss,css,yaml,xml,toml,markdown" />
+        <img src="https://wakatime.com/share/@bfcc06d1-10f4-4370-a89f-59e031904a40/d1bfc765-3c5c-47a2-ab21-c1136ef1d834.svg" />
       <a/>
     </td>
   </tr>
