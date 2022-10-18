@@ -14,3 +14,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dragon-zhang&show_icons=true&theme=onedark&count_private=true" alt="Dragon's github stats" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=dragon-zhang&column=4&theme=onedark&margin-w=15&margin-h=15">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
