@@ -9,15 +9,6 @@
 - 🌱 Now, I’m learning `system programming`.
 - 💬 You can reach me by email: 1936978077@qq.com / zhangzicheng@apache.org.
 
-<table>
-  <tr>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=dragon-zhang&count_private=true&show_icons=true&theme=onedark" />
-    </td>
-    <td valign="top">
-      <a href="https://wakatime.com/@bfcc06d1-10f4-4370-a89f-59e031904a40" target="_blank">
-        <img src="https://wakatime.com/share/@bfcc06d1-10f4-4370-a89f-59e031904a40/d1bfc765-3c5c-47a2-ab21-c1136ef1d834.svg" />
-      <a/>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=dragon-zhang&count_private=true&show_icons=true&theme=onedark" />
+
+<img src="https://wakatime.com/share/@bfcc06d1-10f4-4370-a89f-59e031904a40/d1bfc765-3c5c-47a2-ab21-c1136ef1d834.svg" />
