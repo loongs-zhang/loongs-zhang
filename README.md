@@ -11,4 +11,4 @@
   2. shenyu `MemorySafeLinkedBlockingQueue`: https://github.com/apache/shenyu/pull/3323
   3. shenyu `MemorySafeWindowTinyLFUMap`: https://github.com/apache/shenyu/pull/3956
 
-<img src="https://wakatime.com/share/@bfcc06d1-10f4-4370-a89f-59e031904a40/d1bfc765-3c5c-47a2-ab21-c1136ef1d834.svg" width="75%" height="75%" />
+<img src="https://wakatime.com/share/@bfcc06d1-10f4-4370-a89f-59e031904a40/d1bfc765-3c5c-47a2-ab21-c1136ef1d834.svg" width="100%" height="100%" />
