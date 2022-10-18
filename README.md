@@ -5,7 +5,9 @@
 - 🇨🇳 Chinese
 - 🔭 I’m a `java/rust` developer, currently working on `Gateway/Coroutine/RPC/MQ`.
 - 🌱 Now, I’m learning `system programming`.
-- 💬 You can reach me by email: 1936978077@qq.com / zhangzicheng@apache.org
+- 💬 You can reach me by email: 
+  1936978077@qq.com
+  zhangzicheng@apache.org
 - 👨‍💻 The proudest things I've ever done as following :
   1. arthas `vmtool`: https://github.com/alibaba/arthas/pull/1698
   2. shenyu `MemorySafeLinkedBlockingQueue`: https://github.com/apache/shenyu/pull/3323
