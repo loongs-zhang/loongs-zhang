@@ -20,16 +20,21 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-**🐱 dragon-zhang's GitHub Data** 
+**🐱 My GitHub Data** 
 
-> 🏆 945 Contributions in the Year 2022
+> 🏆 948 Contributions in the Year 2022
  > 
-
+> 📦 50.2 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 154 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 Java                     17 hrs 18 mins      ████████████░░░░░░░░░░░░░   48.47% 
 YAML                     4 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.31% 
@@ -39,22 +44,10 @@ XML                      1 hr 56 mins        █░░░░░░░░░░�
 
 ```
 
-**I Mostly Code in Java** 
-
-```text
-Java                     20 repos            █████████████████░░░░░░░░   68.97% 
-C                        4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
-Assembly                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
-
-```
-
-
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/dragon-zhang/dragon-zhang/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/10/2022 15:19:39 UTC
+ Last Updated on 18/10/2022 15:50:53 UTC
 <!--END_SECTION:waka-->
