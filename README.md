@@ -9,12 +9,6 @@
 - 🌱 Now, I’m learning `system programming`.
 - 💬 You can reach me by email: 1936978077@qq.com / zhangzicheng@apache.org.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragon-zhang&layout=compact&theme=onedark" alt="Most Used Languages"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=dragon-zhang&show_icons=true&theme=onedark&count_private=true" alt="Dragon's github stats" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=dragon-zhang&column=4&theme=onedark&margin-w=15&margin-h=15">
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%2012%20mins-blue)
 
@@ -22,16 +16,8 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 948 Contributions in the Year 2022
- > 
-> 📦 50.2 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 154 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
+<img src="https://github-readme-stats.vercel.app/api?username=dragon-zhang&show_icons=true&theme=onedark&count_private=true" alt="Dragon's github stats" />
+
 📊 **This Week I Spent My Time On** 
 
 ```text
