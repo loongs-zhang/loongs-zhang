@@ -1,6 +1,6 @@
 ### 👋 I am dragon-zhang
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dragon-zhang&count_private=true&show_icons=true&theme=onedark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dragon-zhang&count_private=true&show_icons=true&theme=onedark" width="80%" />
 
 - 🇨🇳 Chinese
 - 🔭 I’m a `java/rust` developer, currently working on `Gateway/Coroutine/RPC/MQ`.
