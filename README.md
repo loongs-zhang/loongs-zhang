@@ -1,4 +1,4 @@
-### 🙏The avator is my grandfather, may he rest in peace🙏
+### 🙏The avator is my mother's father, may he rest in peace🙏
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dragon-zhang&count_private=true&show_icons=true&theme=onedark" />
 
