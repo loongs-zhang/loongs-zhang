@@ -1,4 +1,4 @@
-### 👋 I am dragon-zhang
+### 🙏The avator is my grandfather, may he rest in peace🙏
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dragon-zhang&count_private=true&show_icons=true&theme=onedark" />
 
