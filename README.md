@@ -15,7 +15,8 @@
   4. open-coroutine [hook](https://github.com/dragon-zhang/open-coroutine-core-v2/commit/69d6dfca1fa031d0640b0c6fe0c64bdcac661ec4)
   5. dynamic-tp [use JVMTI to support springmvc](https://github.com/dromara/dynamic-tp/pull/289)
   6. shenyu [WasmPlugin](https://github.com/apache/shenyu/pull/5412)
+  7. speech [PlayWithWASM](https://github.com/loongs-zhang/ACOCA2024-PlayWithWASM)
 
 <img src="https://wakatime.com/share/@bfcc06d1-10f4-4370-a89f-59e031904a40/d1bfc765-3c5c-47a2-ab21-c1136ef1d834.svg" width="100%" height="100%" />
 
-🙏The avator is my mother's father, may he rest in peace🙏
+   🙏The avator is my mother's father, may he rest in peace🙏
