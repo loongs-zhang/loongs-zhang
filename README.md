@@ -16,6 +16,7 @@
   5. dynamic-tp [use JVMTI to support springmvc](https://github.com/dromara/dynamic-tp/pull/289)
   6. shenyu [WasmPlugin](https://github.com/apache/shenyu/pull/5412)
   7. speech [PlayWithWASM](https://github.com/loongs-zhang/ACOCA2024-PlayWithWASM)
+  8. open-coroutine [ManuallyScalableStack](https://github.com/acl-dev/open-coroutine/pull/313)
 
 <img src="https://wakatime.com/share/@bfcc06d1-10f4-4370-a89f-59e031904a40/d1bfc765-3c5c-47a2-ab21-c1136ef1d834.svg" width="100%" height="100%" />
 
